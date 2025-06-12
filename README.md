@@ -14,8 +14,9 @@
 </a>
 <br>
 <br>
+ <img align="center" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
   <img align="center" alt="GIF" src="https://private-user-images.githubusercontent.com/74038190/243328563-d0cfe7d1-0b8c-4e4a-9a66-875290ba6065.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDk3NTc4NjcsIm5iZiI6MTc0OTc1NzU2NywicGF0aCI6Ii83NDAzODE5MC8yNDMzMjg1NjMtZDBjZmU3ZDEtMGI4Yy00ZTRhLTlhNjYtODc1MjkwYmE2MDY1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjEyVDE5NDYwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA2MTBlYzQ3ZGMzNWQ2M2ZjNzc0NDMxMDU2YzBiNDg1ZjQyMmFjYzExYzQ2MjgyNGJhYWU1NTZmZTJhNzgyOWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.54TDom1hp7FarYg1LgwzBeO-DKviM5cdPwqsFybzVQ8">
-<h3 id="-languages-and-tools">👨‍💻 Languages and Tools</h3>
+<h3 align="center" id="-languages-and-tools">👨‍💻 Languages and Tools</h3>
 <br>
 <p><a href="https://github.com/greyhoundIlya"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat&amp;logo=javascript&amp;link=https://github.com/greyhoundIlya" alt="JavaScript"></a>
 <a href="https://github.com/greyhoundIlya"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&amp;logo=html5&amp;logoColor=white&amp;link=https://github.com/greyhoundIlya" alt="HTML5"></a>
