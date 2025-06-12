@@ -1,7 +1,7 @@
   <p><img  align="center" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Web-developer"></p>
 <h2 id="welcome-to-my-world">Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"></h2>
 <h3 id="hello-im-brijesh-dhanani-a-full-stack-developer-from-india">Hello! I’m ILLIA STASIUK a Full Stack Developer from POLAND.</h3>
-<h2 id="hello-im-brijesh-dhanani-a-full-stack-developer-from-india">Frontend: HTML, CSS, JavaScript, React.js, TypeScript, Nextjs, D3,js.</h2>
+<h2 id="hello-im-brijesh-dhanani-a-full-stack-developer-from-india">Frontend: HTML, CSS, JavaScript, ReactJs, TypeScript, NextJs, D3.js.</h2>
 <h2 id="hello-im-brijesh-dhanani-a-full-stack-developer-from-india">Backend: NestJS, MongoDB, SQL, Firebase</h2>
 <a href="https://www.linkedin.com/in/illia-stasiuk-fazickk/">
   <img align="left" alt="Brijesh Dhanani" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">
