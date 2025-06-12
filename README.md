@@ -28,7 +28,5 @@
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=brdhanani&amp;show_icons=true&amp;title_color=fff&amp;icon_color=79ff97&amp;text_color=efefef&amp;bg_color=24292e" alt="Brijesh Dhanani's Github Stats">
 </p>
-<p align="center">
     <p><img  align="center" src="https://user-images.githubusercontent.com/74038190/216655840-d7262fea-0313-4161-9c45-f69077ea6a2f.gif" alt="Web-developer"></p>
-</p>
 <hr>
