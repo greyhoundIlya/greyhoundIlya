@@ -12,7 +12,7 @@
 </a>
 <br>
 <br>
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif">
 <h3 id="-languages-and-tools">👨‍💻 Languages and Tools</h3>
 <br>
 <p><a href="https://github.com/greyhoundIlya"><img src="https://img.shields.io/badge/-JavaScript-black?style=flat&amp;logo=javascript&amp;link=https://github.com/greyhoundIlya" alt="JavaScript"></a>
